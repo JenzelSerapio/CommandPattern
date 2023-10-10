@@ -1,4 +1,4 @@
-# Problem statement
+# PROBLEM STATEMENT
 
 Smart Home Automation
 
